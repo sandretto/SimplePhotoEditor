@@ -1,0 +1,10 @@
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor.Library\bin\Debug\PhotoEditor.Library.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor.Library\bin\Debug\PhotoEditor.Library.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor.Library\obj\Debug\PhotoEditor.Library.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor.Library\obj\Debug\PhotoEditor.Library.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor.Library\obj\Debug\PhotoEditor.Library.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor.Library\bin\Debug\PhotoEditor.Library.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor.Library\bin\Debug\PhotoEditor.Library.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor.Library\obj\Debug\PhotoEditor.Library.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor.Library\obj\Debug\PhotoEditor.Library.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor.Library\obj\Debug\PhotoEditor.Library.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoEditor", "PhotoEditor\PhotoEditor.csproj", "{739EABA6-4278-42F3-BEF1-7F98F03E7A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoEditor.Library", "PhotoEditor.Library\PhotoEditor.Library.csproj", "{5465EBEA-6AA1-411E-9C7C-EBF9FE5FFC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739EABA6-4278-42F3-BEF1-7F98F03E7A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739EABA6-4278-42F3-BEF1-7F98F03E7A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739EABA6-4278-42F3-BEF1-7F98F03E7A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739EABA6-4278-42F3-BEF1-7F98F03E7A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5465EBEA-6AA1-411E-9C7C-EBF9FE5FFC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5465EBEA-6AA1-411E-9C7C-EBF9FE5FFC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5465EBEA-6AA1-411E-9C7C-EBF9FE5FFC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5465EBEA-6AA1-411E-9C7C-EBF9FE5FFC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

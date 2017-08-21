@@ -1,0 +1,144 @@
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\Theme.baml
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\MainWindow.g.cs
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\App.g.cs
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.cache
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.lref
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\MainWindow.baml
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.g.resources
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+E:\SASHA\Мои документы\01 Программирование\C#\C#_my_projects\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\Theme.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.lref
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.g.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\Theme.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.lref
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\MainWindow.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor.g.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.0\PhotoEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\Theme.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PictureView.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.lref
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PictureView.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.g.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\Interop.WMLSS.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.1\PhotoEditor\obj\Debug\PhotoEditor.csproj.ResolveComReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\Interop.WMLSS.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.csproj.ResolveComReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\Theme.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PictureView.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.lref
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PictureView.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.g.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\obj\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\PhotoEditor.Library.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.2\PhotoEditor\bin\Debug\PhotoEditor.Library.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\PhotoEditor.Library.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\PhotoEditor.Library.pdb
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\Interop.WMLSS.dll
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.csproj.ResolveComReference.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\Theme.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PictureView.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\App.g.cs
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor_MarkupCompile.lref
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PictureView.baml
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.g.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Alexandra.Petrova\Documents\Sasha\Study\Portfolio\PhotoEditor_v1.3\PhotoEditor\obj\Debug\PhotoEditor.pdb
